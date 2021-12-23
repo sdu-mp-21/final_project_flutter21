@@ -5,6 +5,10 @@ Mobile application written of flutter for the SDU community
 
 Description of project
 
+As the name says, the app is about creating events meant only for SDU students Functionality:
+
+Creating an event, that people can participate in-person.
+Viewing clubs list of SDU and their main informationCancel changes The app will be usefull for clubs as Mountain Kings which are doing events actively. Main purpose is to automate the process of ticket selling , so that they don't have to sit and sell them at the university.
 
 We made this app for cross platform using Flutter
 
