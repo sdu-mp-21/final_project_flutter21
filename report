@@ -1,0 +1,39 @@
+Report
+
+First of all, before starting the project we decided to make consultation with the team. And after the consultation we did some small research. 
+Like: 
+First, our goal is to make this project. As we note, our main goal is in this way to help people, why do people need the project, and like this.
+Second, who will use our application, can our application be beneficial for users, what is our application feature. How the project should be realized, what technologies, services, etc. to be connected, What items the project should contest with, what great solutions exist in this area and what can be progressed in them. 
+First, through the research, we find approximately the number of users of our application. After the research we approximately see numbers, and we understand more or less how to move forward in the future. Then we as a team moved to the phase of developing, before that we examined this kind of application. Every member looks at several applications and writes down advantages and disadvantages, errors of the service we use. 
+Second, our mission is to give high quality products to people.
+
+Project
+Lost and Found SDU Mobile application written of flutter for the SDU community
+Description  of project 
+As the name says, the app is about creating events meant only for SDU students We made this app for cross platform using Flutter
+Goal 
+In the future we wanted this app to be used by SDU clubs, so that club heads can manage club members and newcomers can join clubs through our app.
+What problems does our app solve?
+Scope and Features Same UI and Business Logic in All Platforms Similar to Native App Performance Custom, Animated UI of Any Complexity Available Simple Platform-Specific Logic Implementation Project structure Login/registration page Home page Ticket page Add ticket page Profile page
+Functionality
+Creating an event, where people can participate in-person.
+Viewing clubs list of SDU and their main informationCancel changes The app will be useful for clubs as Mountain Kings which are doing events actively. Main purpose is to automate the process of ticket selling , so that they don't have to sit and sell them at the university. Event publishers can manage participants list, set person limit, price (if participation is paid) Event publisher should also give a description, accurate date and time and image (optional).
+Problems
+In the process of making a project, we have several problems.Like how to build our application, how to give it to people.What kind of features would it have?So, a solution we try to find in applications that already exists. As we said before, we solve these problems make consultation with the team  And the main feature of our application is the adding creating an event, that people can participate in-person.
+Conclusion
+So, in the end, our goal of making this project is to helps du clubs.And we do not say that by only this application, sdu clubs problems will be solved. It is the only thing that what we could do at this time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
