@@ -47,10 +47,10 @@ Event publisher can manage participators list, set person limit, price (if parti
 Event publisher should also give a description, accurate date and time and image (optional).
 
 ## Screenshots
-![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/s.png)
-![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/s1.png)
-![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/s2.png)
-![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-12-24%20211807.png)
+![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/HomePage.png)
+![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/ProfilePage.png)
+![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/EventCreatingPage.png)
+![alt text](https://github.com/sdu-mp-21/sdu-events/blob/main/TicketsPage.png)
 
 
 ## License & copyright
